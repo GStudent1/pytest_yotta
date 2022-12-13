@@ -1,0 +1,91 @@
+{
+  "uid" : "2a1ae99ff9b690a1",
+  "name" : "test_leetcode_problems",
+  "fullName" : "test_case.test_leetcode.TestLeetcode#test_leetcode_problems",
+  "historyId" : "3d7090f7d614c71637f17de6d618cc4a",
+  "time" : {
+    "start" : 1670918480895,
+    "stop" : 1670918481271,
+    "duration" : 376
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ {
+    "name" : "client",
+    "time" : {
+      "start" : 1670918480894,
+      "stop" : 1670918480894,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "a669aa397998448f",
+      "name" : "https://leetcode.cn/problems/api/favorites/",
+      "source" : "a669aa397998448f.txt",
+      "type" : "text/plain",
+      "size" : 17141
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_leetcode"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLeetcode"
+  }, {
+    "name" : "host",
+    "value" : "enhengdeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "20073-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_leetcode"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2a1ae99ff9b690a1.json",
+  "parameterValues" : [ ]
+}

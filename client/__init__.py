@@ -1,6 +1,7 @@
-from client.http.tiktok_ug_incentive_client_api import TikTokUgIncentiveClientApi
+from client.http.leetcode_psm import  LeetcodePsm
+
 
 class Client(object):
     @property
-    def tiktok_ug_incentive_client_api(self):
-        return TikTokUgIncentiveClientApi()
+    def leet_code_psm(self):
+        return LeetcodePsm()
